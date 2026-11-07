@@ -25,7 +25,7 @@ Python · Streamlit · LangChain · FAISS · Hugging Face · Groq
 **1. Clone the repository**
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/bupendra-d?tab=repositories
 cd Conversational-PDF-RAG
 ```
 
